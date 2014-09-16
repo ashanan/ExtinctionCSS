@@ -3,7 +3,7 @@
 	height: 0; 
 	border-left: 75px solid transparent; 
 	border-right: 75px solid transparent; 
-	border-top: 75px solid black;
+	border-top: 85px solid black;
 } 
 
 #bottom-triangle { 
@@ -11,6 +11,6 @@
 	height: 0; 
 	border-left: 75px solid transparent; 
 	border-right: 75px solid transparent; 
-	border-bottom: 75px solid black;
-	margin-top: -10px;
+	border-bottom: 85px solid black;
+	margin-top: -15px;
 } 
