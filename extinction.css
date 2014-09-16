@@ -24,3 +24,13 @@
 	border-bottom: 85px solid black;
 	margin-top: -15px;
 } 
+
+#inner-bottom-triangle { 
+	width: 0; 
+	height: 0; 
+	border-left: 45px solid transparent; 
+	border-right: 45px solid transparent; 
+	border-bottom: 50px solid white;
+	padding-top: 21px;
+	margin-left: -44px;
+}
