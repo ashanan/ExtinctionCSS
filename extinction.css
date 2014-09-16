@@ -1,26 +1,26 @@
 #top-triangle { 
 	width: 0; 
 	height: 0; 
-	border-left: 75px solid transparent; 
-	border-right: 75px solid transparent; 
+	border-left: 84px solid transparent; 
+	border-right: 84px solid transparent; 
 	border-top: 85px solid black;
 } 
 
 #inner-top-triangle { 
 	width: 0; 
 	height: 0; 
-	border-left: 45px solid transparent; 
-	border-right: 45px solid transparent; 
+	border-left: 49px solid transparent; 
+	border-right: 49px solid transparent; 
 	border-top: 50px solid white;
-	margin-top: -70px;
-	margin-left: -44px;
+	margin-top: -73px;
+	margin-left: -49px;
 } 
 
 #bottom-triangle { 
 	width: 0; 
 	height: 0; 
-	border-left: 75px solid transparent; 
-	border-right: 75px solid transparent; 
+	border-left: 84px solid transparent; 
+	border-right: 84px solid transparent; 
 	border-bottom: 85px solid black;
 	margin-top: -15px;
 } 
@@ -28,9 +28,9 @@
 #inner-bottom-triangle { 
 	width: 0; 
 	height: 0; 
-	border-left: 45px solid transparent; 
-	border-right: 45px solid transparent; 
+	border-left: 49px solid transparent; 
+	border-right: 49px solid transparent; 
 	border-bottom: 50px solid white;
 	padding-top: 21px;
-	margin-left: -44px;
+	margin-left: -49px;
 }
