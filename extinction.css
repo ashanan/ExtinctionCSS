@@ -1,7 +1,16 @@
 #top-triangle { 
 	width: 0; 
 	height: 0; 
-	border-left: 50px solid transparent; 
-	border-right: 50px solid transparent; 
-	border-top: 100px solid black;
+	border-left: 75px solid transparent; 
+	border-right: 75px solid transparent; 
+	border-top: 75px solid black;
+} 
+
+#bottom-triangle { 
+	width: 0; 
+	height: 0; 
+	border-left: 75px solid transparent; 
+	border-right: 75px solid transparent; 
+	border-bottom: 75px solid black;
+	margin-top: -10px;
 } 
