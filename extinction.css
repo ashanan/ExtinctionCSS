@@ -6,6 +6,16 @@
 	border-top: 85px solid black;
 } 
 
+#inner-top-triangle { 
+	width: 0; 
+	height: 0; 
+	border-left: 45px solid transparent; 
+	border-right: 45px solid transparent; 
+	border-top: 50px solid white;
+	margin-top: -70px;
+	margin-left: -44px;
+} 
+
 #bottom-triangle { 
 	width: 0; 
 	height: 0; 
